@@ -1,5 +1,11 @@
+<<<<<<< Updated upstream
 Hello Tech World
 
 New Techs leads the future
 
 N3techs one of it
+=======
+Hello World
+
+This is Raghu!
+>>>>>>> Stashed changes
